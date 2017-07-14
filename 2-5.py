@@ -1,0 +1,1 @@
+print('"Beautiful is what we see, more beautiful is what we know, most beautiful, by far, is what we do not - Nicolas Steno')
