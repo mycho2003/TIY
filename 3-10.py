@@ -1,0 +1,17 @@
+num = [1, 2, 3, 4, 5, 6, 7, 8]
+print("My favorite is ", num[2])
+num.append(9)
+print("Actually, the list is ", num)
+num.insert(0, 0)
+print("And we just discovered, it's ", num)
+del num[0]
+print("But we didn't like that.", num)
+num.pop()
+print("And we didn't like the last one either.", num)
+num.remove(7)
+print("We also got rid of my least favorite number.", num)
+num.reverse()
+print("Oops, we reversed it", num)
+num.sort()
+print("We sorted it again", num)
+print("Now it's this long:", len(num))
