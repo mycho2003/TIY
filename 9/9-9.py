@@ -50,3 +50,4 @@ Nicolas = ElectricCar("Tesla", "Odd", 2003)
 Nicolas.battery.get_range()
 Nicolas.battery.upgrade()
 Nicolas.battery.get_range()
+
